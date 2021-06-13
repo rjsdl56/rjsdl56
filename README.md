@@ -9,7 +9,7 @@
 - Python, R
 - SQL
 - Deep Learning (Especially NLP)
-- 结巴 (Chinese NLP package)
+- 结巴 (Python 中文分词组件)
 
 
 
