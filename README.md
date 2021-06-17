@@ -1,6 +1,6 @@
 ### 👨‍💻 Data Analyst _ Sungjun
 
-[Sungjun's Notion](https://www.notion.so/CV-b9137bd909ce47aba92ae451b97c7fe3)
+### [Sungjun's Notion](https://www.notion.so/CV-b9137bd909ce47aba92ae451b97c7fe3)
 
 
 
