@@ -9,7 +9,7 @@
 - Python, R
 - SQL
 - Deep Learning (Especially NLP)
-- Flask( Python)
+- Flask (Python)
 
 
 
