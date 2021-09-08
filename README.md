@@ -1,4 +1,8 @@
-### 👨‍💻 Data Analyst _ PK
+### 👨‍💻 Data Analyst _ SungJun
+
+
+
+[SungJun's Notion](https://www.notion.so/CV-b9137bd909ce47aba92ae451b97c7fe3)
 
 
 
